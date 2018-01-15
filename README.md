@@ -5,9 +5,9 @@ Proyecto de análisis de datos en recursos humanos con fines pedagógicos para p
 
 * El problema está resuelto en tres partes:
   
-  1.-Parte 1: Contiene el EDA + la transformación y selección de variables
-  2.-Parte 2: Contiene la selección de modelos
-  3.-Parte 3: Contiene la aplicación del modelo y la interpretación de resultados
+1.-Parte 1: Contiene el EDA + la transformación y selección de variables
+2.-Parte 2: Contiene la selección de modelos
+3.-Parte 3: Contiene la aplicación del modelo y la interpretación de resultados
   
 En esta primera versión he liberado la parte 1, la cual utiliza como herramientas:
 
